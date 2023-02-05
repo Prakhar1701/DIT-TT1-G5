@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e53c43c-712c-4298-a70f-430f5e98a65d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/microsoft_teams_assignments/due5feb2023/solution2/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/microsoft_teams_assignments/due5feb2023/solution2/A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,14 +23,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/microsoft_teams_assignments/due4feb2023/questions.txt" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/microsoft_teams_assignments/due4feb2023/solution1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/microsoft_teams_assignments/due4feb2023/Questions.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/microsoft_teams_assignments/due4feb2023/Solution1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LDltmwFu9h4Yu95mVWhN3bbPPU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -64,6 +65,7 @@
       <workItem from="1675414731775" duration="171000" />
       <workItem from="1675415683216" duration="1685000" />
       <workItem from="1675417847398" duration="364000" />
+      <workItem from="1675600558381" duration="931000" />
     </task>
     <servers />
   </component>
