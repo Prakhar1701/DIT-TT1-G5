@@ -5,20 +5,27 @@ public class A {
         int n = 121;
         System.out.println(isPrime(n));
     }
+
     static String isPrime(int n) {
 
-        if(n<2){
+        if (n < 2) {
             return "No";
         }
-        for (int i = 2; i <= Math.sqrt(n); i++) {
-            // Write your logic here
-            // Return "Yes" if n is prime, else return "No"
-            /*n is prime only if it is not divisible by any i.
-            We will not reach till n and 1 is already discarded*/
-            if(n%i==0){
+
+        if (n == 2 || n == 3) {
+            return "Yes";
+        }
+
+        if (n % 2 == 0 || n % 3 == 0) {
+            return "No";
+        }
+
+        for (int i = 5; i <= Math.sqrt(n); i = i + 6) {
+            if (n % i == 0 || n % (i + 2) == 0) {
                 return "No";
             }
         }
+
         return "Yes";
     }
 }
