@@ -1,0 +1,6 @@
+Q1. Print Armstrong number b/w 1 to N
+Q2.  Attempt Following Questions
+https://practice.geeksforgeeks.org/problems/for-loop-primechecl/1
+https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
+https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1
+
