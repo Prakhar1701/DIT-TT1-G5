@@ -26,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/src/microsoft_teams_assignments/due4feb2023/Questions.txt" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/microsoft_teams_assignments/due4feb2023/Solution1.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/microsoft_teams_assignments/due5feb2023/solution2/A.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/microsoft_teams_assignments/due5feb2023/solution2/B.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,7 +67,7 @@
       <workItem from="1675414731775" duration="171000" />
       <workItem from="1675415683216" duration="1685000" />
       <workItem from="1675417847398" duration="364000" />
-      <workItem from="1675600558381" duration="4923000" />
+      <workItem from="1675600558381" duration="6394000" />
     </task>
     <servers />
   </component>

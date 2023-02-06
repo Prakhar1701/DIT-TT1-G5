@@ -7,17 +7,27 @@ public class B {
         System.out.println(gcd);
     }
 
-    //Approach 2:
+    //Approach 3: Divisor Method
     public int gcd(int A, int B) {
-        while (A != B) {
-            if (A > B) {
-                A = A - B;
-            } else {
-                B = B - A;
-            }
+        while (A % B != 0) {
+            int r = A % B;
+            A = B;
+            B = r;
         }
-        return A;
+        return B;
     }
+
+    //Approach 2: Subtraction Method
+//    public int gcd(int A, int B) {
+//        while (A != B) {
+//            if (A > B) {
+//                A = A - B;
+//            } else {
+//                B = B - A;
+//            }
+//        }
+//        return A;
+//    }
 
     //Approach 1:
 //    public int gcd(int A, int B) {
