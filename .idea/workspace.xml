@@ -57,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution3">
+  <component name="RunManager">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="microsoft_teams_assignments.due5feb2023.solution2.A" />
       <module name="Technical-Training-1" />
@@ -84,9 +84,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="microsoft_teams_assignments.due13feb2023.Solution7" />
+      <module name="Technical-Training-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="microsoft_teams_assignments.due13feb2023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution7" />
         <item itemvalue="Application.A" />
       </list>
     </recent_temporary>
@@ -111,7 +125,8 @@
       <workItem from="1675710178736" duration="143000" />
       <workItem from="1676120149278" duration="2760000" />
       <workItem from="1676211063976" duration="2252000" />
-      <workItem from="1676296787751" duration="543000" />
+      <workItem from="1676296787751" duration="1538000" />
+      <workItem from="1676303336773" duration="2364000" />
     </task>
     <servers />
   </component>
