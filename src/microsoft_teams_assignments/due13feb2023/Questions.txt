@@ -1,0 +1,9 @@
+Instructions:
+
+1.Print A Using Pattern
+2.Print Z Using pattern
+3.Print SandBox Glass Pattern (https://mycareerwise.com/storage/editor/images/Sandglass%20Star%20Pattern.png)
+4.Print Triangle Pattern https://cdn.educba.com/academy/wp-content/uploads/2019/09/Patterns-in-C-Programming.png
+5.Diamond Pattern https://javaconceptoftheday.com/wp-content/uploads/2016/08/DiamondPatternProgram.png
+6.Mix Patterns https://javainterviewpoint.com/wp-content/uploads/2018/06/Number-Pattern-Programs-in-Java.png
+7.Binary Pattern https://1.bp.blogspot.com/-o_ZWR4IRoLk/X3roS1R-fZI/AAAAAAAAAxw/acgY_gqLXywIdNNgHIGjx6RU_C6_pmGSgCNcBGAsYHQ/s0/Binary_Number_Triangle_Pattern.png
