@@ -57,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.A">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="microsoft_teams_assignments.due5feb2023.solution2.A" />
       <module name="Technical-Training-1" />
@@ -126,7 +126,9 @@
       <workItem from="1676120149278" duration="2760000" />
       <workItem from="1676211063976" duration="2252000" />
       <workItem from="1676296787751" duration="1538000" />
-      <workItem from="1676303336773" duration="4935000" />
+      <workItem from="1676303336773" duration="5249000" />
+      <workItem from="1676382516407" duration="71000" />
+      <workItem from="1676741233800" duration="439000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,12 @@
+MarkSheet Print
+
+Instructions
+Create a Class Student , Student contains RollNo, Name, 3 Subject Marks
+Total Marks , Percentage , Grade
+>=90 A Grade
+<90 to 70 B Grade
+<70 to 60 C Grade
+<60 to 50 D Grade
+<50 F Grade
+
+Rule : SRP , DRY , Gud Encapsulation , Data Hiding , toString, Setter, Getter, Constructor Chaining-Fit in this Assignment.
